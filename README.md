@@ -65,4 +65,4 @@ Users can:
 * Qt Creator
 * Qt 5 or later
 * C++ Compiler (MinGW/MSVC)
-# Text-Editor
+
